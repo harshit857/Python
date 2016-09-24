@@ -1,4 +1,7 @@
 # Program to play Youtube video (Bulleya song) after every 200 seconds i.e.(3min 26sec )
+#To run this file save it with ->  "filename".py  (don't include "")
+#Remember to have python installed on the system
+
 import webbrowser
 import time
 
